@@ -1,4 +1,4 @@
-# angular-web-store
+# web-store-24
 
 ## Installation
 
