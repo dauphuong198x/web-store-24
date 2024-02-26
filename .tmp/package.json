@@ -1,0 +1,31 @@
+{
+  "name": "angular-web-store",
+  "version": "6.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mizne/angular-web-store"
+  },
+  "author": {
+    "name": "mizne",
+    "email": "w20054319@126.com"
+  },
+  "keywords": [
+    "angular-web-storage",
+    "ng2-storage",
+    "angular localstorage",
+    "angular sessionstorage"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mizne/angular-web-store/issues"
+  },
+  "main": "angular-web-store.umd.js",
+  "module": "angular-web-store.js",
+  "jsnext:main": "angular-web-store.js",
+  "typings": "angular-web-store.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^6.0.0",
+    "rxjs": "^6.0.0",
+    "zone.js": "^0.8.4"
+  }
+}
