@@ -5,7 +5,7 @@
 To install this library, run:
 
 ```bash
-$ npm install angular-web-store --save
+$ npm install web-store-24 --save
 ```
 
 ## Quick Start
